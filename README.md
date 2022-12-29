@@ -2,6 +2,8 @@
 
 Project for converting SNES controller to a bluetooth gamepad using the ESP32 microcontroller.
 
+<img src="/Image/PCB.png" width="500" />
+
 # GPIO conncetion
 |       ESP32 pin | SNES Controller | Wire color |
 |---:|:-------:|:--------:|
