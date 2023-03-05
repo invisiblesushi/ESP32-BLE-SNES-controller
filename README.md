@@ -15,8 +15,8 @@ Project for converting SNES controller to a bluetooth gamepad using the ESP32 mi
 |    | VCC 3.3v|   White  | 
 
 # Libaries
-ESP32-BLE-Gamepad - https://github.com/lemmingDev/ESP32-BLE-Gamepad
-ArduinoGameController - https://github.com/bitluni/ArduinoGameController
+- ESP32-BLE-Gamepad - https://github.com/lemmingDev/ESP32-BLE-Gamepad
+- ArduinoGameController - https://github.com/bitluni/ArduinoGameController
 
 # Parts list
 - ESP32-S
