@@ -3,6 +3,9 @@
 Project for converting SNES controller to a bluetooth gamepad using the ESP32 microcontroller.
 
 # Controller:
+- SFC clear controller (Super potato japan) 
+- Product Code: CLBCC-SFCCR-BL
+- JAN code: 4582286321407
 <p float="left">
   <img src="/Image/Controller_internal.jpg" width="40%" />
   <img src="/Image/Controller_back.jpg" width="40%" /> 
