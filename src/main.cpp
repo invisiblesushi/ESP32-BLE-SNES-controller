@@ -68,4 +68,3 @@ void loop() {
   // DPAD
   handleDPadPress();
 }
-
