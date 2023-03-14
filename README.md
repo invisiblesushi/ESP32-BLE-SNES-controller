@@ -7,13 +7,14 @@ Project for converting SNES controller to a bluetooth gamepad using the ESP32 mi
 - Product Code: CLBCC-SFCCR-BL
 - JAN code: 4582286321407
 <p float="left">
-  <img src="/Image/Controller_internal.jpg" width="40%" />
-  <img src="/Image/Controller_back.jpg" width="40%" /> 
+  <img src="/Image/Controller_internal.jpg" width="45%" />
+  <img src="/Image/Controller_back.jpg" width="45%" /> 
 </p>
 <p float="left">
-  <img src="/Image/Controller_front.jpg" width="40%" />
-  <img src="/Image/Controller_usb.jpg" width="40%" /> 
+  <img src="/Image/Controller_front.jpg" width="45%" />
+  <img src="/Image/Controller_usb.jpg" width="45%" /> 
 </p>
+<img src="/Image/Btn_mapping.png" width="50%" />
 
 # PCB
 - Layers: 2
