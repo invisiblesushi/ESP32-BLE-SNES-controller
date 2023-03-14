@@ -46,6 +46,8 @@ void loop() {
 
   if (!bleGamepad.isConnected())
     {
+      Serial.println("BLE gamepad not connected");
+      delay(500);
       return;
     }
 
